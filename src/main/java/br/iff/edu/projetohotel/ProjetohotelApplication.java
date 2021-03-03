@@ -1,0 +1,13 @@
+package br.iff.edu.projetohotel;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjetohotelApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjetohotelApplication.class, args);
+	}
+
+}
